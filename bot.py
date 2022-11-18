@@ -9,7 +9,7 @@ import datetime
 
 now = datetime.datetime.now()
 
-API_TOKEN = '5819543919:AAGCJGSJzBMZmOw0xaIv5HuhTr2QGTByEcc'
+API_TOKEN = ''
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
